@@ -102,5 +102,8 @@ main{
 about-info{
     text-align: center;
 }
+#paragraph-description{
+    padding: 30px 150px;
+}
 
 
